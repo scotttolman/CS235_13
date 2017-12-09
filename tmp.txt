@@ -1,0 +1,88 @@
+25 25
+a1 a2   a2 b2    b2 b1    
+a2 a3   a3 b3    b3 b4    b4 b5    b5 c5    c5 d5    d5 e5    e5 f5    f5 f6    f6 f7    f7 f8    f8 e8    e8 e9    e9 f9    f9 g9    g9 g10    g10 g11    g11 f11    f11 f10    f10 e10    e10 d10    d10 d9    d9 c9    c9 b9    b9 a9    a9 a8    a8 a7    a7 a6    a6 b6    b6 c6    c6 c7    c7 b7    b7 b8    b8 c8    c8 d8    d8 d7    d7 e7    e7 e6    e6 d6    
+b1 c1   c1 c2    c2 d2    d2 d1    d1 e1    e1 f1    f1 g1    g1 g2    g2 h2    h2 i2    i2 j2    j2 k2    k2 l2    l2 m2    m2 n2    n2 n1    n1 o1    o1 p1    p1 p2    p2 q2    q2 q3    q3 r3    r3 s3    s3 s2    s2 s1    s1 r1    r1 r2    
+c2 c3   c3 d3    d3 d4    d4 e4    e4 e3    e3 f3    f3 f4    f4 g4    g4 g5    g5 g6    g6 g7    g7 g8    g8 h8    h8 h7    h7 h6    h6 h5    h5 i5    i5 i4    i4 h4    h4 h3    h3 i3    i3 j3    j3 k3    k3 k4    k4 j4    j4 j5    j5 j6    j6 i6    i6 i7    i7 i8    i8 j8    j8 k8    k8 k9    k9 k10    k10 k11    k11 j11    j11 j12    j12 k12    k12 l12    l12 m12    m12 n12    n12 n13    n13 m13    m13 l13    l13 k13    k13 j13    j13 j14    j14 j15    j15 j16    j16 j17    j17 j18    j18 i18    i18 h18    h18 h17    h17 h16    h16 g16    g16 g15    g15 g14    g14 g13    g13 f13    f13 e13    e13 d13    d13 d12    d12 e12    e12 e11    
+a3 a4   
+c3 c4   
+a4 a5   
+d2 e2   e2 f2    
+f3 g3   
+g1 h1   
+h1 i1   
+h8 h9   h9 i9    i9 i10    i10 j10    j10 j9    
+a9 a10   a10 b10    b10 c10    c10 c11    c11 c12    c12 c13    c13 b13    b13 a13    a13 a12    a12 a11    a11 b11    b11 b12    
+i1 j1   j1 k1    k1 l1    l1 m1    
+i7 j7   j7 k7    k7 l7    l7 m7    m7 n7    n7 n6    n6 o6    o6 o7    o7 p7    p7 p6    p6 p5    p5 o5    o5 o4    o4 p4    p4 q4    q4 r4    r4 r5    r5 q5    q5 q6    q6 r6    r6 r7    r7 s7    s7 t7    t7 t8    t8 s8    s8 s9    s9 s10    s10 t10    t10 t11    t11 t12    t12 s12    s12 s13    s13 r13    r13 r12    r12 r11    r11 r10    r10 r9    r9 q9    q9 p9    p9 p8    p8 q8    q8 q7    
+h9 h10   h10 h11    h11 i11    i11 i12    i12 h12    h12 g12    g12 f12    
+d10 d11   
+j5 k5   k5 k6    
+k3 l3   l3 l4    l4 m4    m4 n4    n4 n5    n5 m5    m5 m6    m6 l6    
+k5 l5   
+k8 l8   l8 l9    l9 m9    m9 m8    m8 n8    n8 o8    o8 o9    o9 n9    n9 n10    n10 n11    n11 m11    m11 l11    l11 l10    
+l3 m3   
+h12 h13   h13 i13    i13 i14    i14 h14    h14 h15    h15 i15    i15 i16    i16 i17    
+l10 m10   
+a13 a14   a14 a15    a15 b15    b15 b16    b16 b17    b17 a17    a17 a16    
+b13 b14   b14 c14    c14 d14    d14 e14    e14 f14    f14 f15    f15 e15    e15 d15    d15 c15    c15 c16    c16 c17    c17 c18    c18 d18    d18 e18    e18 e19    e19 d19    d19 c19    c19 c20    c20 b20    b20 b19    b19 b18    b18 a18    a18 a19    
+m3 n3   
+k13 k14   k14 k15    k15 l15    l15 l14    l14 m14    m14 m15    m15 m16    m16 m17    m17 l17    l17 k17    k17 k18    k18 k19    k19 j19    j19 i19    i19 i20    i20 i21    i21 i22    i22 j22    j22 j21    j21 k21    k21 l21    l21 l22    l22 l23    l23 m23    m23 m24    m24 n24    n24 n25    n25 m25    m25 l25    l25 k25    
+n13 n14   n14 o14    o14 o13    o13 o12    o12 o11    o11 o10    
+n2 o2   o2 o3    o3 p3    
+n14 n15   n15 n16    n16 o16    o16 o15    
+d15 d16   d16 e16    e16 e17    e17 d17    
+f15 f16   f16 f17    f17 g17    g17 g18    g18 g19    g19 f19    f19 f18    
+o10 p10   p10 q10    q10 q11    q11 p11    p11 p12    p12 p13    p13 q13    q13 q14    q14 p14    p14 p15    p15 p16    p16 q16    q16 q17    q17 p17    p17 p18    p18 q18    q18 r18    r18 r17    r17 s17    s17 s18    s18 t18    t18 u18    u18 u19    u19 t19    t19 t20    t20 s20    s20 r20    r20 r19    r19 q19    q19 p19    p19 o19    o19 o18    o18 o17    o17 n17    n17 n18    
+k15 k16   k16 l16    
+p1 q1   
+p12 q12   
+p15 q15   q15 r15    r15 s15    s15 s16    s16 r16    
+q8 r8   
+l17 l18   l18 l19    l19 l20    l20 m20    m20 m21    m21 n21    n21 n22    n22 n23    n23 o23    o23 p23    p23 q23    q23 q24    q24 r24    r24 r23    r23 r22    r22 s22    s22 s23    s23 s24    s24 t24    t24 u24    u24 u25    u25 v25    v25 w25    w25 w24    w24 x24    x24 x23    x23 x22    x22 x21    x21 x20    x20 y20    y20 y19    y19 x19    x19 w19    w19 w18    w18 x18    x18 x17    x17 x16    x16 w16    w16 w17    w17 v17    v17 u17    u17 t17    t17 t16    t16 u16    u16 u15    u15 v15    v15 w15    w15 x15    x15 x14    x14 w14    w14 w13    w13 w12    w12 w11    w11 w10    w10 w9    w9 v9    v9 v8    v8 w8    w8 w7    w7 w6    w6 v6    v6 v5    v5 w5    w5 x5    x5 y5    y5 y4    y4 x4    x4 x3    x3 w3    w3 w4    w4 v4    v4 u4    u4 u3    u3 v3    v3 v2    v2 v1    v1 w1    w1 w2    w2 x2    x2 y2    y2 y3    
+m17 m18   
+q14 r14   r14 s14    s14 t14    t14 u14    u14 u13    u13 v13    v13 v14    
+r4 s4   s4 s5    s5 t5    t5 u5    
+r6 s6   s6 t6    t6 u6    u6 u7    u7 u8    u8 u9    u9 u10    u10 v10    v10 v11    v11 u11    u11 u12    u12 v12    
+h18 h19   
+r11 s11   
+m18 m19   m19 n19    n19 n20    
+s18 s19   
+a19 a20   
+s1 t1   t1 t2    t2 u2    u2 u1    
+s3 t3   
+d19 d20   d20 d21    d21 c21    c21 c22    c22 b22    b22 a22    a22 a21    a21 b21    
+s4 t4   
+e19 e20   e20 f20    f20 g20    g20 g21    g21 g22    g22 f22    f22 f23    f23 f24    f24 g24    g24 g25    g25 h25    h25 i25    i25 i24    i24 i23    i23 j23    j23 k23    k23 k24    k24 l24    
+h19 h20   h20 h21    h21 h22    h22 h23    h23 g23    
+s9 t9   
+j19 j20   
+k19 k20   
+s13 t13   
+o19 o20   o20 p20    p20 p21    p21 o21    o21 o22    o22 p22    p22 q22    q22 q21    q21 q20    
+s15 t15   
+e20 e21   e21 f21    
+r20 r21   r21 s21    s21 t21    
+t20 u20   u20 u21    u21 u22    u22 v22    v22 w22    w22 w23    w23 v23    v23 u23    u23 t23    t23 t22    
+d21 d22   d22 e22    e22 e23    e23 d23    d23 c23    c23 b23    b23 a23    a23 a24    a24 a25    a25 b25    b25 c25    c25 c24    c24 b24    
+u7 v7   
+k21 k22   
+m21 m22   
+u16 v16   
+u18 v18   v18 v19    v19 v20    v20 w20    w20 w21    w21 v21    
+w1 x1   x1 y1    
+d23 d24   d24 e24    e24 e25    e25 d25    
+w6 x6   x6 y6    y6 y7    y7 y8    y8 y9    y9 y10    y10 x10    x10 x9    x9 x8    x8 x7    
+h23 h24   
+j23 j24   j24 j25    
+w11 x11   x11 y11    y11 y12    
+w12 x12   x12 x13    
+o23 o24   o24 o25    o25 p25    p25 p24    
+v23 v24   
+f24 f25   
+x13 y13   y13 y14    y14 y15    y15 y16    
+q24 q25   
+x17 y17   y17 y18    
+r24 r25   r25 s25    
+t24 t25   
+x21 y21   
+x22 y22   y22 y23    y23 y24    y24 y25    y25 x25    
